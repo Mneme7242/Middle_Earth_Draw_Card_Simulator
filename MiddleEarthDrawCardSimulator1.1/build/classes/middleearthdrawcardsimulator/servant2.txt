@@ -1,0 +1,7 @@
+Servant;009;Mim;2;Assassin
+Servant;013;Tauriel;2;Archer
+Servant;020;Dain Ironfoot;2;Rider
+Servant;022;Isildur;2;Saber
+Servant;028;Caranthir;2;Lancer
+Servant;032;Saruman;2;Caster
+Servant;035;Treebeard;2;Berserker

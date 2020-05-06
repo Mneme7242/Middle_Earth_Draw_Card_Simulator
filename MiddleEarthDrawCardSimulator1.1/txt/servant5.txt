@@ -1,0 +1,7 @@
+Servant;001;Fingolfin;5;Saber
+Servant;003;Gil-Galad;5;Lancer
+Servant;004;Feanor;5;Berserker
+Servant;007;Turgon;5;Assassin
+Servant;011;Legolas;5;Archer
+Servant;017;Luthien;5;Rider
+Servant;030;Gandalf;5;Caster

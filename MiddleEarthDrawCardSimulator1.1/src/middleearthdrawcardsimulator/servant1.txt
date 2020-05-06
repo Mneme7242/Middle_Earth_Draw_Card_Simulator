@@ -1,0 +1,7 @@
+Servant;012;Bandobras;1;Archer
+Servant;019;Azog;1;Berserker
+Servant;023;Meriadoc Brandybuck;1;Saber
+Servant;026;Haleth;1;Lancer
+Servant;027;Bill Ferny;1;Rider
+Servant;029;Gollum;1;Assassin
+Servant;033;Miriel;1;Caster

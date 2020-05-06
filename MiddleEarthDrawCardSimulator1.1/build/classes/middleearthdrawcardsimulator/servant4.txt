@@ -1,0 +1,7 @@
+Servant;002;Fingon;4;Archer
+Servant;005;Suron;4;Caster
+Servant;006;Earendil;4;Rider
+Servant;015;Frodo;4;Assassin
+Servant;016;Finrod;4;Berserker
+Servant;018;Turin;4;Saber
+Servant;024;Ingwe;4;Lancer

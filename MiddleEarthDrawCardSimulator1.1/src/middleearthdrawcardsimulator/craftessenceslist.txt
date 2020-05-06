@@ -1,0 +1,5 @@
+Craft Essence;001;The Silmarils;5
+Craft Essence;002;Rings;4
+Craft Essence;003;Angrist;3
+Craft Essence;004;Hope;2
+Craft Essence;005;Doom;1

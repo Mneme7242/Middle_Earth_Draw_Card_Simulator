@@ -1,0 +1,35 @@
+Servant;001;Fingolfin;5;Saber
+Servant;002;Fingon;4;Archer
+Servant;003;Gil-Galad;5;Lancer
+Servant;004;Feanor;5;Berserker
+Servant;005;Suron;4;Caster
+Servant;006;Earendil;4;Rider
+Servant;007;Turgon;5;Assassin
+Servant;008;Bilbo;3;Assassin
+Servant;009;Mim;2;Assassin
+Servant;010;Celegorm;3;Archer
+Servant;011;Legolas;5;Archer
+Servant;012;Bandobras;1;Archer
+Servant;013;Tauriel;2;Archer
+Servant;014;Thorin;3;Rider
+Servant;015;Frodo;4;Assassin
+Servant;016;Finrod;4;Berserker
+Servant;017;Luthien;5;Rider
+Servant;018;Turin;4;Saber
+Servant;019;Azog;1;Berserker
+Servant;020;Dain Ironfoot;2;Rider
+Servant;021;Eowyn;3;Saber
+Servant;022;Isildur;2;Saber
+Servant;023;Meriadoc Brandybuck;1;Saber
+Servant;024;Ingwe;4;Lancer
+Servant;025;Elrond;3;Lancer
+Servant;026;Haleth;1;Lancer
+Servant;027;Bill Ferny;1;Rider
+Servant;028;Caranthir;2;Lancer
+Servant;029;Gollum;1;Assassin
+Servant;030;Gandalf;5;Caster
+Servant;031;Daeron;3;Caster
+Servant;032;Saruman;2;Caster
+Servant;033;Miriel;1;Caster
+Servant;034;Beorn;3;Berserker
+Servant;035;Treebeard;2;Berserker

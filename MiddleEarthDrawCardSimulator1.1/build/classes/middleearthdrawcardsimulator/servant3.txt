@@ -1,0 +1,7 @@
+Servant;008;Bilbo;3;Assassin
+Servant;010;Celegorm;3;Archer
+Servant;014;Thorin;3;Rider
+Servant;021;Eowyn;3;Saber
+Servant;025;Elrond;3;Lancer
+Servant;031;Daeron;3;Caster
+Servant;034;Beorn;3;Berserker
